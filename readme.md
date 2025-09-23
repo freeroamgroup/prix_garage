@@ -1,11 +1,11 @@
 # 🚗 Prix Garage
-Garage, impound, and vehicle storage system for FiveM with full **ESX** support.  
-This resource is fully integrated with [**prix_core**](https://freeroam.gitbook.io/main/framework/core).  
+Resources Garages Manage garages, car storage, vehicle impoundments and contract parking fully integrated with **prix_core**.
+This resource is fully integrated with [**prix_core**](https://prix.gitbook.io/resources/res/core).  
 
 ---
 
 ## 📦 Requirements
-- [prix_core](https://freeroam.gitbook.io/main/framework/core)  
+- [prix_core](https://prix.gitbook.io/resources/res/core).  
 - [ox_lib](https://overextended.dev/ox_lib)  
 - MySQL resource:  
   - `oxmysql` (recommended)  
@@ -29,4 +29,5 @@ This resource is fully integrated with [**prix_core**](https://freeroam.gitbook.
 ## 📖 Documentation
 Full documentation is available on GitBook:
 
-👉 [Documentation](https://freeroam.gitbook.io/main/framework/garage)
+👉 [Documentation](https://prix.gitbook.io/resources/resources/res/garage)
+
