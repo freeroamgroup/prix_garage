@@ -1,5 +1,5 @@
 # 🚗 Prix Garage
-Resources Garages Manage garages, car storage, vehicle impoundments and contract parking fully integrated with **prix_core**.
+Prix Garage manage garages, car storage, vehicle impoundments and contract parking fully integrated with **prix_core**.
 This resource is fully integrated with [**prix_core**](https://prix.gitbook.io/resources/res/core).  
 
 ---
@@ -30,4 +30,5 @@ This resource is fully integrated with [**prix_core**](https://prix.gitbook.io/r
 Full documentation is available on GitBook:
 
 👉 [Documentation](https://prix.gitbook.io/resources/resources/res/garage)
+
 
